@@ -1,0 +1,1 @@
+# Insan Obje (dataframe with pandas)
